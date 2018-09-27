@@ -15,36 +15,7 @@
        "EmployeeName":"Naresh",
        "EmpSalary":"30000"
      },
-      {
-       "EmployeeID":"4",
-       "EmployeeName":"Rupesh",
-       "EmpSalary":"40000"
-     },
-      {
-       "EmployeeID":"5",
-       "EmployeeName":"Umesh",
-       "EmpSalary":"50000"
-     },
-     {
-       "EmployeeID":"6",
-       "EmployeeName":"Mingesh",
-       "EmpSalary":"60000"
-     },
-      {
-       "EmployeeID":"7",
-       "EmployeeName":"Sampesh",
-       "EmpSalary":"70000"
-     },
-      {
-       "EmployeeID":"8",
-       "EmployeeName":"phanesh",
-       "EmpSalary":"80000"
-     },
-      {
-       "EmployeeID":"9",
-       "EmployeeName":"Jayesh",
-       "EmpSalary":"10000"
-     },
+     
       {
        "EmployeeID":"10",
        "EmployeeName":"Rajesh",
